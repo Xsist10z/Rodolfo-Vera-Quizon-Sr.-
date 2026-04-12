@@ -20,16 +20,21 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: An Archive of Rodolfo Vera Quizon Sr. 
+title: CollectionBuilder-GH 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Honoring the King of Comedy: The Complete Archive of Dolphy
+tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Rodolfo Vera Quizon Sr., widely known as the “King of Comedy” in the Philippines, built a lasting legacy in film, television, and stage through decades of memorable performances. From humble beginnings, he rose to fame by portraying relatable and humorous characters that reflected the everyday lives of ordinary Filipinos. His natural wit, perfect timing, and emotional depth allowed him to go beyond comedy, becoming a storyteller who blended laughter with meaningful life lessons.
-Throughout his career, Dolphy became a cultural icon whose influence shaped generations of actors and comedians. His work proved that comedy can also carry sincerity, social insight, and humanity. In recognition of his immense contribution to Philippine arts and culture, he was honored with the Grand Collar of the Order of the Golden Heart, one of the nation’s highest civilian awards.
-His journey was one of perseverance, passion, and purpose, earning him the enduring title of King of Comedy."
+description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: RHOB AVIEL Y. SIBAL
+author: CollectionBuilder
+
+##########
+# COLLECTION SETTINGS
+#
+# Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
+# Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
+metadata: demo-metadata
 
 ##########
 # Site/Organization Branding 
