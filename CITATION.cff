@@ -3,15 +3,8 @@ message: "If you use this software, please cite it as below."
 title: "CollectionBuilder-GH"
 type: software
 authors:
-  - family-names: Williamson
-    given-names: Evan Peter
-    orcid: https://orcid.org/0000-0002-7990-9924
-  - family-names: Becker
-    given-names: Devin
-    orcid: https://orcid.org/0000-0002-0974-9064
-  - family-names: Wikle
-    given-names: Olivia
-    orcid: https://orcid.org/0000-0001-8122-4169
+  - family-names: Sibal
+    given-names: Rhob Aviel
 repository-code: 'https://github.com/CollectionBuilder/collectionbuilder-gh'
 url: 'https://collectionbuilder.github.io/'
 license: MIT
