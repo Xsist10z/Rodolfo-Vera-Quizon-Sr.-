@@ -20,14 +20,18 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: An Archive of Rodolfo Vera Quizon Sr. 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Honoring the King of Comedy: The Complete Archive of Dolphy
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Rodolfo Vera Quizon Sr., widely known as the “King of Comedy” in the Philippines, built a legacy that transformed Filipino entertainment through decades of film, television, and stage performances. Starting from humble beginnings, he rose to fame by portraying relatable, heartfelt, and humorous characters that reflected the everyday lives of ordinary Filipinos. His unique blend of natural wit, timing, and emotional depth made him not just a comedian, but a storyteller who captured both laughter and life lessons in every role.
+
+Throughout his career, Dolphy became a cultural icon whose influence shaped generations of actors and comedians. His body of work showed that comedy could also carry sincerity, social insight, and humanity. Because of his outstanding contribution to Philippine arts and culture, he was among the distinguished artists honored with one of the nation’s highest civilian recognitions, the Grand Collar of the Order of the Golden Heart, symbolizing his service and impact on Filipino society.
+
+From stage to screen, Dolphy’s journey was not just about fame—it was an “adventure” of perseverance, passion, and purpose. His dedication to his craft and his ability to make people laugh even during difficult times earned him the enduring title King of Comedy, a name that continues to define excellence in Philippine entertainment long after his passing."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: RHOB AVIEL Y. SIBAL
 
 ##########
 # COLLECTION SETTINGS
