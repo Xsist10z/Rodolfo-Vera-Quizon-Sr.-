@@ -69,7 +69,7 @@ metadata-facets-fields: "subject,creator,format"
 # Ignore this section if you are not including any compound objects
 # Note, like other items, child objects will only appear in visualizations if they have the correct metadata (lat long for map; date for timeline)
 # select true below if you'd like your compound object's child objects to appear in any of the pages or features listed
-map-child-objects: false # true / false - if true, and if child item has latitude and longitude, child objects will be displayed on map
+map-child-objects: true # true / false - if true, and if child item has latitude and longitude, child objects will be displayed on map
 timeline-child-objects: true # true / false - if true, and if child object has date, child objects will appear as thumbnails on timeline page
 data-child-objects: false # true / false - if true, child objects will appear linked in table on data page
 carousel-child-objects: false # true / false - if true, child objects will appear on homepage carousel
@@ -91,7 +91,7 @@ navbar-background: bg-dark
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: # leave blank or comment out for plain bootstrap
+bootswatch: spacelab
 
 # THEME FONTS
 base-font-size: 1.2em
