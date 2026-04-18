@@ -8,19 +8,72 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="[https://cdil.lib.uidaho.edu/images/palouse_sm.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpWd0du558Kg_qqkEgZm4JFPok_m33qB6-aQ&s)" %}
+# Markdown syntax guide
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+## Headers
 
-## About the Collection
+# This is a Heading h1
+## This is a Heading h2
+###### This is a Heading h6
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+## Emphasis
 
-- a CSV of collection metadata
-- a folder of JPG images or MOVIEs
+*This text will be italic*  
+_This will also be italic_
 
-Everything here is all about **Rodolfo Vera Quizon Sr.** his journey to becoming the king of comedy 
+**This text will be bold**  
+__This will also be bold__
 
+_You **can** combine them_
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+## Lists
+
+### Unordered
+
+* Item 1
+* Item 2
+* Item 2a
+* Item 2b
+    * Item 3a
+    * Item 3b
+
+### Ordered
+
+1. Item 1
+2. Item 2
+3. Item 3
+    1. Item 3a
+    2. Item 3b
+
+## Images
+
+![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")
+
+## Links
+
+You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+
+## Blockquotes
+
+> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
+>
+>> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+
+## Tables
+
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
+
+## Blocks of code
+
+```
+let message = 'Hello world';
+alert(message);
+```
+
+## Inline code
+
+This web site is using `markedjs/marked`.
