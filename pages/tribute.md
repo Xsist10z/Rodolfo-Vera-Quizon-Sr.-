@@ -1,7 +1,7 @@
 ---
 title: Tribute to Dolphy
 layout: page
-permalink: /pages/tribute/
+permalink: /tribute.html
 ---
 
 # Tribute To The **KING OF COMEDY**
@@ -15,13 +15,10 @@ This tribute honors his legacy, not only as an entertainer, but as a cultural ic
 ### Letter for you
 You may no longer be here in this world, but your art will always remain, continuing to inspire others and bring laughter to those who need it, even to this day. If I ever had the chance to say this, thank you. You saved many people through your humor and your movies.
 
-<div style="display:flex; justify-content:center; align-items:center;">
-  <iframe
+<div class="frame-container">
+  <iframe 
+    src="(https://www.youtube.com/embed/jMg3ZG6F93g)"
     width="900"
     height="500"
-    src="(https://www.youtube.com/embed/jMg3ZG6F93g)"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
+  ></iframe>
 </div>
