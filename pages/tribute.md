@@ -1,6 +1,7 @@
 ---
 title: Tribute to Dolphy
 layout: page
+permalink: /pages/tribute/
 ---
 
 # Tribute To The **KING OF COMEDY**
