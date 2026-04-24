@@ -17,7 +17,7 @@ You may no longer be here in this world, but your art will always remain, contin
 
 <div class="frame-container">
   <iframe 
-    src="(https://www.youtube.com/embed/jMg3ZG6F93g)"
+    src="https://www.youtube.com/embed/jMg3ZG6F93g"
     width="900"
     height="500"
   ></iframe>
