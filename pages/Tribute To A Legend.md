@@ -1,3 +1,9 @@
+---
+title: Tribute To A Legend
+layout: tribute
+permalink: /map.html
+---
+
 # Tribute Collection Map
 
 ## 🎬 Featured Tribute
