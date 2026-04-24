@@ -20,6 +20,29 @@ This archive includes selected films, television appearances, scripts, memorabil
 
 Ultimately, this repository is not only a collection of works but a tribute to a legend—ensuring that the life, achievements, and enduring legacy of the *King of Comedy* will continue to be remembered, studied, and celebrated for generations to come.
 
+## Awards & Honors Timeline
+This section presents a comprehensive record of the awards and recognitions received by **Rodolfo Vera Quizon Sr.** throughout his lifetime, highlighting the key milestones that defined his remarkable career in Philippine entertainment. These honors reflect not only his excellence as a performer but also his deep and lasting contributions to Filipino arts and culture.
+
+Included in this collection are some of the highest distinctions given to artists and private citizens in the Philippines, such as the **Grand Collar of the Order of the Golden Heart**, alongside multiple lifetime achievement awards from major award-giving bodies. Each recognition serves as a testament to his influence on film, television, and comedy, as well as his role in shaping the nation’s cultural identity.
+
+Together, these awards illustrate how his legacy extends beyond performance—cementing him as a cultural icon whose impact continues to be felt across generations.
+
+| Year | Award / Honor | Giving Body | Description |
+|------|--------------|-------------|-------------|
+| 1994 | Dangal ng Lipi Award | Bert Marcelo Memorial Foundation | Recognition for outstanding contribution to Filipino culture and entertainment. |
+| 1995 | Lifetime Achievement Award | PMPC Star Awards for TV | Honored for his long-standing excellence in television. |
+| 1998 | Lifetime Achievement Award | Gawad Urian Awards | Recognized for significant impact on Philippine cinema. |
+| 2000 | Lifetime Achievement Award | Cinemanila International Film Festival | Awarded for his enduring contributions to film. |
+| 2002 | Bituin ng FAMAS Mula Noon Hanggang Ngayon / Lou Salvador Sr. Memorial Award | FAMAS | Honored as a timeless figure in Philippine entertainment. |
+| 2005 | Huwarang Bituin | FAMAS | Recognition for exemplary achievements in the film industry. |
+| 2009 | Comedy Box-Office King (with Vic Sotto) | GMMSF Box-Office Entertainment Awards | Awarded for box-office success in comedy films. |
+| 2009 | Lifetime Achievement Award | Metro Manila Film Festival | Honored for lifetime contributions to Philippine cinema. |
+| 2010 | Exemplary Achievement Award | FAMAS Awards | Recognized for continued excellence and influence. |
+| 2010 | Grand Collar of the Order of the Golden Heart | Office of the President of the Philippines | Highest civilian award given for his contributions to entertainment and philanthropy. |
+| 2010 | Maringal na Kuwintas (Order of the Golden Heart) | Philippine Government | Prestigious national honor recognizing public service and cultural impact. |
+| 2012 | Gawad na Diwa ng Lahi | City Government of Manila | Highest honor given by Manila to artists. |
+| 2012 | People's Artist Award (Posthumous) | Dakilang Lahi Foundation | Recognition of his lasting contributions to the film industry. |
+
 ## Production & Business Ventures Timeline
 
 This section highlights the production companies, business ventures, and key ownership milestones associated with **Rodolfo Vera Quizon Sr.**, reflecting his influence not only as a performer but also as a producer and industry pioneer.
