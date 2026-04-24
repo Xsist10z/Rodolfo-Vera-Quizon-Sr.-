@@ -12,13 +12,13 @@ credits: true
 
 **Rodolfo Vera Quizon Sr.**, widely known as the *King of Comedy*, stands as a pillar of Philippine entertainment whose legacy spans film, television, radio, and stage. This archive is a curated repository dedicated to preserving and showcasing the breadth of his artistic contributions, capturing not only his works but also the cultural impact he left on generations of Filipinos.
 
-Beginning from humble origins, he rose through perseverance and talent to become a household name. His performances were marked by a rare ability to blend humor with heartfelt storytelling, allowing audiences to laugh while also reflecting on real-life struggles, family values, and social realities. His characters were often simple, relatable, and deeply human—making him beloved across all sectors of society.
+Beginning from humble origins, he rose through perseverance and talent to become a household name. His performances were marked by a rare ability to blend humor with heartfelt storytelling, allowing audiences to laugh while also reflecting on real-life struggles, family values, and social realities. His characters were often simple, relatable, and deeply human. Making him beloved across all sectors of society.
 
 Beyond entertainment, his influence helped shape the identity of Filipino comedy. He set standards for timing, authenticity, and emotional depth that continue to inspire actors, comedians, and creators today. His body of work remains a testament to how comedy can serve as both an escape and a mirror of everyday life.
 
-This archive includes selected films, television appearances, scripts, memorabilia, and historical records that document his journey from aspiring performer to national icon. It aims to serve as a valuable resource for students, researchers, and fans who seek to understand his artistry and significance in Philippine cultural history.
+This archive includes selected films, tv series, achievements, awards, and historical records that document his journey from aspiring performer to **National Icon**. It aims to serve as a valuable resource for students, researchers, and fans who seek to understand his artistry and significance in Philippine cultural history.
 
-Ultimately, this repository is not only a collection of works but a tribute to a legend—ensuring that the life, achievements, and enduring legacy of the *King of Comedy* will continue to be remembered, studied, and celebrated for generations to come.
+Ultimately, this repository is not only a collection of works but a tribute to a legend, ensuring that the life, achievements, and enduring legacy of the *King of Comedy* will continue to be remembered, studied, and celebrated for generations to come.
 
 ## Awards & Honors Timeline
 This section presents a comprehensive record of the awards and recognitions received by **Rodolfo Vera Quizon Sr.** throughout his lifetime, highlighting the key milestones that defined his remarkable career in Philippine entertainment. These honors reflect not only his excellence as a performer but also his deep and lasting contributions to Filipino arts and culture.
