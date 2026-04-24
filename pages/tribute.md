@@ -4,7 +4,7 @@ layout: page
 permalink: /tribute.html
 ---
 
-# Tribute To The *KING OF COMEDY*
+# Tribute To The **KING OF COMEDY**
 ### Description
 A heartfelt tribute to **Rodolfo Vera Quizon Sr.**, the man who became a symbol of Filipino laughter and resilience. Known to generations as the “*King of Comedy*”, his life was a journey from humble beginnings to becoming one of the most beloved figures in Philippine entertainment.
 
