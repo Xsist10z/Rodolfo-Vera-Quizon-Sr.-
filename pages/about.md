@@ -25,7 +25,7 @@ This section presents a comprehensive record of the awards and recognitions rece
 
 Included in this collection are some of the highest distinctions given to artists and private citizens in the Philippines, such as the **Grand Collar of the Order of the Golden Heart**, alongside multiple lifetime achievement awards from major award-giving bodies. Each recognition serves as a testament to his influence on film, television, and comedy, as well as his role in shaping the nation’s cultural identity.
 
-Together, these awards illustrate how his legacy extends beyond performance—cementing him as a cultural icon whose impact continues to be felt across generations.
+Together, these awards illustrate how his legacy extends beyond performance,cementing him as a cultural icon whose impact continues to be felt across generations.
 
 | Year | Award / Honor | Giving Body | Description |
 | ------------- |:-------------:|:-------------:|-------------|
@@ -57,4 +57,10 @@ This section highlights the production companies, business ventures, and key own
 | 2000s | Zirkoh Comedy Bar | Co-Owner | Invested in and supported live comedy venues, helping nurture new comedians |
 | Late Career | Dolphy Aid / Charity | Founder | Engaged in charitable initiatives supporting fellow artists and communities in need |
 
-This timeline demonstrates how his legacy extends beyond performance into production, business, and mentorship—cementing his role as a cornerstone of the Philippine entertainment industry.
+This timeline demonstrates how his legacy extends beyond performance into production, business, and mentorship,cementing his role as a cornerstone of the Philippine entertainment industry.
+
+# Creator of the Archive
+
+Hello! My name is **RHOB AVIEL Y. SIBAL**, and this archive is dedicated to the life and works of **Rodolfo Vera Quizon Sr.**.
+
+This project was created as part of our *Art Appreciation* course at **MANUEL L. QUEZON UNIVERSITY** for educational purposes. It aims to recognize and honor his contributions to Philippine art, highlighting his legacy as the *“King of Comedy”*.
