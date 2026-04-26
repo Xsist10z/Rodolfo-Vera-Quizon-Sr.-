@@ -60,8 +60,16 @@ This section highlights the production companies, business ventures, and key own
 
 This timeline demonstrates how his legacy extends beyond performance into production, business, and mentorship,cementing his role as a cornerstone of the Philippine entertainment industry.
 
-# Creator of the Archive
+# Rationale of the Project
 
-Hello! My name is **RHOB AVIEL Y. SIBAL**, and this archive is dedicated to the life and works of **Rodolfo Vera Quizon Sr.**.
+This project aims to collect and present the works of **Rodolfo Vera Quizon Sr.** We find his works relevant because of his lasting contribution to Philippine cinema and entertainment, as well as his ability to portray the everyday life, humor, and values of Filipinos. Known as the “*King of Comedy*,” his influence spans generations through film, television, radio, and stage, making his legacy an essential part of Philippine art and culture.
 
-This project was created as part of our *Art Appreciation* course at **MANUEL L. QUEZON UNIVERSITY** for educational purposes. It aims to recognize and honor his contributions to Philippine art, highlighting his legacy as the *“King of Comedy”*.
+###Short Biography
+
+**Rodolfo Vera Quizon Sr.** (July 25, 1928 – July 10, 2012), popularly known as Dolphy, was a Filipino actor and comedian born in Tondo, Manila. He was the second of ten children of Melencio Quizon and Salud Vera. In his early years, he sold peanuts and watermelon seeds in cinemas, which allowed him to watch films for free and sparked his interest in entertainment. During the Japanese occupation, he began working as a dancer in theaters and eventually entered radio and film, where he built a career that lasted over six decades. He became widely known for his roles in John en Marsha and Home Along Da Riles, along with numerous films that showcased his versatility in both comedy and drama. Throughout his career, he received multiple awards, including lifetime achievement recognitions and the Grand Collar of the Order of the Golden Heart. He passed away in 2012, and in honor of his contributions, a National Day of Remembrance was declared.
+
+*Database Builders*
+**RHOB AVIEL Y. SIBAL**
+
+*School*
+**MANUEL L. QUEZON UNIVERSITY**
