@@ -7,7 +7,8 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-
+# **ABOUT THE ARCHIVE**
+## Preserving the legacy, achievements, and cultural impact of the King of Comedy
 {% include feature/nav-menu.html sections="Awards & Honors Timeline;Production & Business Ventures Timeline;Creator of the Archive" %}
 
 **Rodolfo Vera Quizon Sr.**, widely known as the *King of Comedy*, stands as a pillar of Philippine entertainment whose legacy spans film, television, radio, and stage. This archive is a curated repository dedicated to preserving and showcasing the breadth of his artistic contributions, capturing not only his works but also the cultural impact he left on generations of Filipinos.
