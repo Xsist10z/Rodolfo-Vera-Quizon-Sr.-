@@ -68,14 +68,16 @@ This project aims to collect and present the works of **Rodolfo Vera Quizon Sr.*
 
 **Rodolfo Vera Quizon Sr.** (July 25, 1928 – July 10, 2012), popularly known as Dolphy, was a Filipino actor and comedian born in Tondo, Manila. He was the second of ten children of Melencio Quizon and Salud Vera. In his early years, he sold peanuts and watermelon seeds in cinemas, which allowed him to watch films for free and sparked his interest in entertainment. During the Japanese occupation, he began working as a dancer in theaters and eventually entered radio and film, where he built a career that lasted over six decades. He became widely known for his roles in John en Marsha and Home Along Da Riles, along with numerous films that showcased his versatility in both comedy and drama. Throughout his career, he received multiple awards, including lifetime achievement recognitions and the Grand Collar of the Order of the Golden Heart. He passed away in 2012, and in honor of his contributions, a National Day of Remembrance was declared.
 
+### Database Builders
+
+**RHOB AVIEL Y. SIBAL**
+
+### School
+
+**MANUEL L. QUEZON UNIVERSITY**
+
 ### Citation
 - Dolphy. (2015). In V. Almario (Ed.), Sagisag Kultura (Vol 1). Manila: National Commission for Culture and the Arts. Retrieved from https://philippineculturaleducation.com.ph/dolphy/
 - “Dolphy.” Wikipedia, Wikimedia Foundation, https://en.wikipedia.org/wiki/Dolphy
 
-*Database Builders*
 
-**RHOB AVIEL Y. SIBAL**
-
-*School*
-
-**MANUEL L. QUEZON UNIVERSITY**
