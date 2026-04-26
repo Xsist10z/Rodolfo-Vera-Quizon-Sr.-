@@ -20,3 +20,7 @@
   color: white;
   text-align: center;
 }
+
+.banner {
+  background-image: url("/assets/img/background.png");
+}
