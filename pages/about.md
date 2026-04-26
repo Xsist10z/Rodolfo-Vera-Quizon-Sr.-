@@ -9,7 +9,6 @@ credits: true
 ---
 # **ABOUT THE ARCHIVE**
 Preserving the legacy, achievements, and cultural impact of the King of Comedy
----
 
 {% include feature/nav-menu.html sections="Awards & Honors Timeline;Production & Business Ventures Timeline;Creator of the Archive" %}
 
