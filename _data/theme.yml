@@ -100,13 +100,6 @@ link-color: "#0d6efd"
 base-font-family: 
 font-cdn: '<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">'
 
-# Banner Image
-banner_image: /assets/img/background.png
-
-# Optional overlay text
-banner_title: ABOUT THE ARCHIVE
-banner_subtitle: Preserving the legacy, achievements, and cultural impact of the King of Comedy
-
 # THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/
 # the "icons" object below can override the default icons and add new icons
