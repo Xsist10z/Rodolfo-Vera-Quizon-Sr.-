@@ -1,18 +1,9 @@
 ---
+# default "About" page layout
 layout: default
 ---
-
-<!-- HERO / BANNER -->
-<div class="hero-banner" style="background-image: url('/assets/img/background.png');">
-  <div class="hero-text">
-    <h1>ABOUT THE ARCHIVE</h1>
-    <p>Preserving the legacy, achievements, and cultural impact of the King of Comedy</p>
-  </div>
-</div>
-
-<!-- CONTENT -->
 <div class="container my-4 about-contents">
-  {{ content }}
+{{ content }}
 </div>
 
 {% if page.credits == true %}{% include cb/credits.html %}{% endif %}
