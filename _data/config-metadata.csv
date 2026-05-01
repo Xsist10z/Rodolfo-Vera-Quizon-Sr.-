@@ -15,4 +15,4 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-link,Link
+link,Link,,true
