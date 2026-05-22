@@ -30,6 +30,8 @@ During the Japanese occupation of the Philippines in the early 1940s (around 194
 
 ### Stage Name: “Golay” (1944 – late 1940s)
 
+<img src="assets/img/Golay.jpg" alt="Golay" width="400">
+
 * His first stage name  
 * Used during his early bodabil career  
 * Worked as a chorus dancer and minor stage performer  
