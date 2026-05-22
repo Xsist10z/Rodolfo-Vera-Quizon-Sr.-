@@ -41,17 +41,11 @@ During the Japanese occupation of the Philippines in the early 1940s (around 194
 
 ---
 
-## Transition to Film Career (Late 1940s – 1950s)
+## Stage Name: Dolphy (1950s – 2012)
 
 After World War II, Dolphy transitioned into **radio and film**. In **1946**, he appeared in his first film roles, sometimes credited under his real name, *Rodolfo Quizon*.
 
-From the late 1940s to early 1950s, he gradually moved away from “Golay” and began establishing himself as a film actor.
-
----
-
-## Stage Name: Dolphy (1950s – 2012)
-
-By the 1950s, he adopted the stage name **“Dolphy”**, which became his permanent professional identity.
+From the late 1940s to early 1950s, he gradually moved away from “Golay” and began establishing himself as a film actor, he adopted the stage name **“Dolphy”**, which became his permanent professional identity.
 
 * Became widely known through comedy films and television  
 * Developed his signature comedic style and persona  
