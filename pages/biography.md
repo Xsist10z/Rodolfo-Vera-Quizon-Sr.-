@@ -4,11 +4,9 @@ layout: page
 permalink: /biography.html
 ---
 
-# Biography of the **KING OF COMEDY**
-
-<img src="/assets/images/Dolphy.jpg">
-
 # Biography of Rodolfo Vera Quizon Sr. (Dolphy)
+
+<img src="assets/img/dolphy.jpg" alt="Dolphy" width="700">
 
 ## Overview
 
