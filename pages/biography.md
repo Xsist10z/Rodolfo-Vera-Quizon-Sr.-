@@ -28,7 +28,9 @@ Dolphy grew up in **Tondo, Manila**, and experienced poverty at a young age. Bef
 During the Japanese occupation of the Philippines in the early 1940s (around 1944), he began performing in **bodabil (vaudeville)** stage shows. As a teenager (around 15–17 years old), he was introduced to stage performance by entertainer **Benny Mack**, who hired him as a chorus dancer in theaters such as:
 
 * Avenue Theater  
-* Lyric Theater  
+* Lyric Theater
+  
+---
 
 ### Stage Name: “Golay” (1944 – late 1940s)
 
