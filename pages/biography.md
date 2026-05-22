@@ -1,6 +1,6 @@
 ---
 title: Biography of Dolphy
 layout: page
-permalink: /information.html
+permalink: /biography.html
 ---
 
