@@ -17,7 +17,7 @@ He built a career spanning more than six decades in film, television, radio, and
 
 ---
 
-## Early Life and First Stage Name (Golay)
+## Early Life 
 
 Dolphy grew up in **Tondo, Manila**, and experienced poverty at a young age. Before entering show business, he worked various odd jobs such as:
 
