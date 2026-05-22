@@ -28,18 +28,17 @@ During the Japanese occupation of the Philippines in the early 1940s (around 194
   
 ---
 
-### Stage Name: “Golay” (1944 – late 1940s)
+### First Stage Name: “Golay” (1944 – late 1940s)
 
 <img src="assets/img/Golay.jpg" alt="Golay" width="400">
 
-* His first stage name  
 * Used during his early bodabil career  
 * Worked as a chorus dancer and minor stage performer  
 * Built foundational experience in live entertainment  
 
 ---
 
-## Stage Name: Dolphy (1950s – 2012)
+## Known Stage Name: Dolphy (1950s – 2012)
 
 After World War II, Dolphy transitioned into **radio and film**. In **1946**, he appeared in his first film roles, sometimes credited under his real name, *Rodolfo Quizon*.
 
