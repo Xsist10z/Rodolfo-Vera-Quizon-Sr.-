@@ -6,7 +6,7 @@ permalink: /biography.html
 
 # Biography of Rodolfo Vera Quizon Sr. (Dolphy)
 
-<img src="assets/img/dolphy.jpg" alt="Dolphy" width="700">
+<img src="assets/img/Dolphy.jpg" alt="Dolphy" width="700">
 
 ## Overview
 
