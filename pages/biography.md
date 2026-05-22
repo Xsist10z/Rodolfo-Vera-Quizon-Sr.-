@@ -1,5 +1,5 @@
 ---
-title: Information about Dolphy
+title: Biography of Dolphy
 layout: page
 permalink: /information.html
 ---
