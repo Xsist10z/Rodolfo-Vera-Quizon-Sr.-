@@ -8,8 +8,6 @@ permalink: /biography.html
 
 <img src="assets/img/Dolphy.jpg" alt="Dolphy" width="400">
 
-## Overview
-
 **Rodolfo Vera Quizon Sr. (July 25, 1928 – July 10, 2012)**, widely known as *Dolphy*, was a Filipino comedian, actor, and television icon recognized as the **“King of Philippine Comedy.”**  
 He built a career spanning more than six decades in film, television, radio, and stage performance, becoming one of the most influential entertainers in Philippine history.
 
